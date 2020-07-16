@@ -1,0 +1,5 @@
+*.pyc
+*.o
+/data/voc_12aug/
+/checkpoints/
+/results/

@@ -1,0 +1,2 @@
+# Chinese_Text_Classification_System
+一个小型的中文文本分类系统
